@@ -1,79 +1,45 @@
-# 📚 HTML & CSS — Estudos e Projetos
+# HTML e CSS
 
-Repositório criado durante meus estudos de **HTML e CSS**, reunindo exercícios, práticas e projetos desenvolvidos ao longo dos cursos.
+Repositório para aprendizado de HTML e CSS. Cursos realizados durante minha formação em desenvolvimento web.
 
-O objetivo é aplicar na prática conceitos de desenvolvimento web, desde a estruturação de páginas até a criação de layouts e interfaces utilizando HTML5 e CSS3.
+Cada arquivo e projeto refere-se a exercícios e conteúdos desenvolvidos durante os cursos, com exemplos práticos de HTML e CSS.
 
----
+📖 **[Visualizar projetos online](https://roger-kk.github.io/Cursos-HTML/)**
 
-## 🚀 Projetos
+## Fundamentos de HTML
 
-Os projetos deste repositório podem ser visualizados diretamente no navegador através do GitHub Pages.
+- 00_principals.html — exemplos e anotações sobre os principais elementos e recursos utilizados em HTML.
 
-### 🌐 [Visualizar projetos online](https://roger-kk.github.io/Cursos-HTML/)
+- 01_index.html — primeiros passos com estrutura de páginas HTML, títulos, parágrafos, listas, imagens e estilos.
 
----
+## HTML e CSS
 
-## 📂 Conteúdo
+- 01_index.html — exercícios de estruturação de páginas utilizando HTML e CSS.
 
-### 01 — Fundamentos de HTML
+- 02_produtos.html — página de produtos desenvolvida com HTML e CSS, utilizando imagens, navegação e organização de conteúdo.
 
-Exercícios desenvolvidos para praticar a estrutura básica de documentos HTML e seus principais elementos.
+- 03-05_index.html — página principal do projeto desenvolvido durante os estudos de HTML e CSS.
 
-**Tecnologias:**
+- 03-05_sobre.html — página "Sobre mim" relacionada ao projeto principal.
 
-* HTML5
-* CSS3
+## Estrutura e estilização
 
-🔗 [Visualizar projeto](https://roger-kk.github.io/Cursos-HTML/01_index.html)
+- HTML5 — estruturação semântica de páginas, textos, links, imagens, listas, formulários e organização de conteúdo.
 
----
+- CSS3 — estilização das páginas, cores, fontes, espaçamentos, posicionamento e organização visual dos elementos.
 
-### 02 — Página de Produtos
+- Integração HTML + CSS — aplicação de estilos externos, internos e diretamente nos elementos HTML.
 
-Projeto desenvolvido utilizando HTML e CSS, trabalhando estruturação de conteúdo, estilização e organização de uma página de produtos.
+## Como rodar
 
-**Tecnologias:**
+Os exemplos deste repositório são páginas estáticas e podem ser executados diretamente no navegador.
 
-* HTML5
-* CSS3
+Páginas no navegador — abra qualquer arquivo .html utilizando a extensão Live Server do VS Code (botão direito no arquivo → Open with Live Server), ou simplesmente dê duplo clique no arquivo para abri-lo no navegador.
 
-🔗 [Visualizar projeto](https://roger-kk.github.io/Cursos-HTML/02_produtos.html)
+GitHub Pages — os projetos também podem ser acessados diretamente pelo navegador:
 
----
+## Observação
 
-### 03 — Projeto Final
+Este repositório faz parte da minha jornada de aprendizado em Desenvolvimento de Software, reunindo exercícios e projetos desenvolvidos durante os estudos de HTML e CSS.
 
-Projeto desenvolvido durante a sequência dos estudos, reunindo os principais conceitos praticados no curso.
-
-**Tecnologias:**
-
-* HTML5
-* CSS3
-
-🔗 [Visualizar projeto](https://roger-kk.github.io/Cursos-HTML/03-05_index.html)
-
----
-
-## 🛠️ Tecnologias
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-
----
-
-## 🎓 Estudos
-
-Este repositório faz parte da minha jornada de aprendizado em **Desenvolvimento de Software**, com foco na construção de uma base sólida em desenvolvimento web.
-
-Os exercícios foram desenvolvidos durante meus estudos na **Alura**.
-
----
-
-## 📌 Observação
-
-Este é um repositório de estudos e evolução contínua. Novos exercícios e projetos serão adicionados conforme avanço nos estudos.
-
----
-
-**Desenvolvido por Roger**
+Os conteúdos foram desenvolvidos principalmente durante os cursos da Alura, servindo como prática para os conceitos apresentados nas aulas.
