@@ -36,7 +36,7 @@ Os exemplos deste repositório são páginas estáticas e podem ser executados d
 
 Páginas no navegador — abra qualquer arquivo .html utilizando a extensão Live Server do VS Code (botão direito no arquivo → Open with Live Server), ou simplesmente dê duplo clique no arquivo para abri-lo no navegador.
 
-GitHub Pages — os projetos também podem ser acessados diretamente pelo navegador:
+GitHub Pages — os projetos também podem ser acessados diretamente pelo navegador: 📖 **[Visualizar projetos online](https://roger-kk.github.io/Cursos-HTML/)**
 
 ## Observação
 
